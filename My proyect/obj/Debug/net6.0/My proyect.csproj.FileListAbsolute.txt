@@ -1,0 +1,15 @@
+D:\Знакомство с С#\My proyect\bin\Debug\net6.0\My proyect.exe
+D:\Знакомство с С#\My proyect\bin\Debug\net6.0\My proyect.deps.json
+D:\Знакомство с С#\My proyect\bin\Debug\net6.0\My proyect.runtimeconfig.json
+D:\Знакомство с С#\My proyect\bin\Debug\net6.0\My proyect.dll
+D:\Знакомство с С#\My proyect\bin\Debug\net6.0\My proyect.pdb
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.csproj.AssemblyReference.cache
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.AssemblyInfoInputs.cache
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.AssemblyInfo.cs
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.csproj.CoreCompileInputs.cache
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.dll
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\refint\My proyect.dll
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.pdb
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\My proyect.genruntimeconfig.cache
+D:\Знакомство с С#\My proyect\obj\Debug\net6.0\ref\My proyect.dll
