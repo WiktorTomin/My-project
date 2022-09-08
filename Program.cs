@@ -1,26 +1,14 @@
-﻿//Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
+﻿// Задача 2: Напишите программу, которая на вход принимает два числа и выдаёт, какое число большее, а какое меньшее.
 
 Console.WriteLine("Введите первое число: ");
-int mean1 = int.Parse(Console.ReadLine());
+int num1 = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Введите второе число: ");
-int mean2 = int.Parse(Console.ReadLine());
+int num2 = int.Parse(Console.ReadLine());
 
-Console.WriteLine("Введите третье число: ");
-int mean3 = int.Parse(Console.ReadLine());
-
-    if (mean1 > mean2 && mean1 > mean3)
+    if (num1 > num2)
     {
-        Console.WriteLine($"Максимальное число {mean1}");
+       Console.WriteLine($"Максимальное число {num1}");
+       Console.WriteLine($"Минимальное число {num2}");
     }
-    
-    else if (mean2 > mean1 && mean2 > mean3)
-    {
-      Console.WriteLine($"Максимальное число {mean2}");   
-    }
-
-     else if (mean3 >mean1 && mean3 > mean2)
-     {
-        Console.WriteLine($"Максимальное число {mean3}");
-     }
-    //Задача №4 решена.
+// Задача №2 решена.
